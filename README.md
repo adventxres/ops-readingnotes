@@ -1,1 +1,0 @@
-# ops-readingnotes
