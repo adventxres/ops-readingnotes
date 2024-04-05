@@ -1,1 +1,18 @@
-
+Hardware is used everywhere, that serves up software. 
+Higher the level the less detail
+- lower level : mother board 
+- higher level : the cloud 
+Hardware refers to tangible components of a computer you can interact with 
+Operating system is a control layer that manages and regulates the hardware. 
+UI is a user interface 
+GI is a graphical user interface 
+> using your keyboard to control functions on your computer screens 
+###Stages of Computer 
+##Input initiates an action by providing an input to the computer; keyboard clicks or mouse clicks **double click** 
+## Processing once an input is recieved, the OS will instruct the HW to process the input. 
+## OUTPUT - result the computer presents of the task making it visble to the user. 
+## Circuits - are components that manipulate electriciy to transmit signals within a computer system 
+- BUILDING BLOCK FOR PROCESSING AND RECIEVING INFORMATION 
+## Logic Gates, intergrated withing circuit boards, perform bitwise calculations and logical operations to transmit data 
+ZERO - 0 Electricity OFF 
+ONE - 1 Electricity ON 
