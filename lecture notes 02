@@ -1,1 +1,11 @@
 
+#Reading notes 
+##HOW TO BUILD A COMPUTER
+Which is better in a CPU, more cores or higher speed? More cores the higher the performance 
+Under which circumstances is that true? under the circumstance that many applications use multiple threads at the same time 
+How many CPU cores does a computer need? quad-core, hexa-core or higher.
+What details are you looking for when finding a motherboard which fits your processor?Compatibility in the socket of the CPU and mother board, Onboard Wi-Fi (ensures that your computer will have wireless capabilities)
+Bluetooth, multiple RAM slots/high RAM capacity, and support for graphics cards if necessary (PCIe x16 slot).
+What are the tradeoffs you’d evaluate while selecting a storage device? HDD have no moving parts are larger but faster than SSD 
+Think about others with a background similar to yours. How would you explain to them the key parts of a computer, in a way they’d best connect with? I woork in healthcare I would explain the key parts as body parts and relate them to the function of the body. 
+
