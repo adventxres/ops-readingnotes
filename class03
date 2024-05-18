@@ -1,0 +1,11 @@
+##  What is a bios ? 
+- Basic input out put system it is a firmware that is present on the motherboard of a computer. The bios is responsible for initializing and configuring various hardware components during the boot process.
+Ensuring they are working together in harmony, and allowing the operating system to run. 
+# use your background to make an analogy for what happens during the booting process 
+I would relate it to accessing a patients vital functions. Making sure their body is communicating with the doctors and nurses. 
+## what is a power self test ? 
+when you turn on your computer the bios performs a self test to check if the essential hardware components like the CPU,RAM, storage drives, graphics are all functioning correctly
+## What is CMOS ?
+CMOS stands for '' complementary metal oxide semiductor'' the cmos chips are used to store data used by the operating systems during the boot processs. Also known as a 'real time clock' 
+## what is a cmos battery 
+The supply power to the CMOS RAMS 
